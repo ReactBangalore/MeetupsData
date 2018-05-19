@@ -35,7 +35,8 @@
     
     Talk Contents
 
-    * [Slides](#)
+    * [Slides](https://speakerdeck.com/siddharthkp/we-need-to-talk-about-our-frontend-workflow)
+    * [GitHub](https://github.com/auth0/cosmos)
 
 
 
