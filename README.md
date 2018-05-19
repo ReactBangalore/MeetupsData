@@ -1,0 +1,1 @@
+### This repository is used to store all the meetups data  like place where the meetup was hosted, date of the meetup and info about speakers and their slides/code. 😎
